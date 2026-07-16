@@ -1,17 +1,25 @@
 <!-- ATA:START -->
 <div align="center">
 
-![Area Tech Academy](https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Lucas%20Azevedo&fontSize=42&fontAlignY=36&desc=Area%20Tech%20Academy%20%C2%B7%20Rookie&descAlignY=58&color=0:0ea5e9,50:8b5cf6,100:f97316&fontColor=ffffff)
+![Area Tech Academy](https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Lucas%20Azevedo&fontSize=42&fontAlignY=36&desc=Area%20Tech%20Academy%20%C2%B7%20Trainee&descAlignY=58&color=0:0ea5e9,50:8b5cf6,100:f97316&fontColor=ffffff)
 
 ### Desenvolvedor de Software Fullstack
 
 _Desenvolvedor de software com sólida experiência em projetos Fullstack, especializado na criação de soluções eficientes e escaláveis. Proativo e comprometido com a melhoria contínua das habilidades técnicas, valorizo o trabalho colaborativo..._
 
-![Area Tech Academy](https://img.shields.io/badge/Area%20Tech%20Academy-Student-0f172a?style=for-the-badge&logo=academia&logoColor=white)
-![Level](https://img.shields.io/badge/Level-3-0ea5e9?style=for-the-badge&logo=starship&logoColor=white)
-![XP](https://img.shields.io/badge/XP-3%2C332-8b5cf6?style=for-the-badge&logo=sparkpost&logoColor=white)
-![Seniority](https://img.shields.io/badge/Seniority-Rookie-f97316?style=for-the-badge&logo=levelsdotfyi&logoColor=white)
-![Main stack](https://img.shields.io/badge/Main%20stack-C%23-22c55e?style=for-the-badge&logo=csharp&logoColor=white)
+<a href="https://areatech.academy/github"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
+<img src="https://img.shields.io/static/v1?label=Level&message=3&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
+<img src="https://img.shields.io/static/v1?label=XP&message=3332&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
+<img src="https://img.shields.io/static/v1?label=Seniority&message=Trainee&color=f97316&style=for-the-badge&logo=levelsdotfyi&logoColor=white" alt="Seniority" />
+<img src="https://img.shields.io/static/v1?label=Main%20stack&message=C%23&color=22c55e&style=for-the-badge&logo=csharp&logoColor=white" alt="Main stack" />
+
+</div>
+
+## Sua constância
+
+<div align="center">
+
+![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260716205820)
 
 </div>
 
@@ -39,24 +47,28 @@ _Desenvolvedor de software com sólida experiência em projetos Fullstack, espec
 Activity  ░░░░░░░▒░░░▒▒█
 ```
 
-## Tech Stack Progress
+## Language Skills
 
 <div align="center">
-![C#](https://img.shields.io/badge/C%23-Lv%202%20·%202662%20XP-111827?style=for-the-badge&logo=csharp&logoColor=white)
+
+![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260716205820)
+
 </div>
 
-| Language | Level | XP | Practice time |
+| Language | Level | XP no nível | Desafios |
 |---|---:|---:|---:|
-| C# | 2 | 2,662 | 0 min |
+| C# | 2 | 1,662 / 2,297 | 20 |
 
 ## Skills
 
 <div align="center">
-![C#](https://img.shields.io/badge/C%23-skill-334155?style=for-the-badge&logo=codefactor&logoColor=white)
-![Desenvolvimento Fullstack](https://img.shields.io/badge/Desenvolvimento%20Fullstack-skill-334155?style=for-the-badge&logo=codefactor&logoColor=white)
-![Sistemas Web](https://img.shields.io/badge/Sistemas%20Web-skill-334155?style=for-the-badge&logo=codefactor&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-skill-334155?style=for-the-badge&logo=codefactor&logoColor=white)
-![Trabalho em equipe](https://img.shields.io/badge/Trabalho%20em%20equipe-skill-334155?style=for-the-badge&logo=codefactor&logoColor=white)
+
+<img src="https://img.shields.io/static/v1?label=C%23&message=skill&color=334155&style=for-the-badge&logo=codefactor&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/static/v1?label=Desenvolvimento%20Fullstack&message=skill&color=334155&style=for-the-badge&logo=codefactor&logoColor=white" alt="Desenvolvimento Fullstack" />
+<img src="https://img.shields.io/static/v1?label=Sistemas%20Web&message=skill&color=334155&style=for-the-badge&logo=codefactor&logoColor=white" alt="Sistemas Web" />
+<img src="https://img.shields.io/static/v1?label=SQL&message=skill&color=334155&style=for-the-badge&logo=codefactor&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/static/v1?label=Trabalho%20em%20equipe&message=skill&color=334155&style=for-the-badge&logo=codefactor&logoColor=white" alt="Trabalho em equipe" />
+
 </div>
 
 ## Achievements
@@ -94,7 +106,7 @@ Activity  ░░░░░░░▒░░░▒▒█
 
 <div align="center">
 
-![Powered by](https://img.shields.io/badge/Powered%20by-Area%20Tech%20Academy-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://areatech.academy/github"><img src="https://img.shields.io/static/v1?label=Powered%20by&message=Area%20Tech%20Academy&color=0ea5e9&style=for-the-badge&logo=github&logoColor=white" alt="Powered by" /></a>
 
 _README sincronizado automaticamente com minha evolução na plataforma._
 
