@@ -7,7 +7,7 @@
 
 _Desenvolvedor de software com sólida experiência em projetos Fullstack, especializado na criação de soluções eficientes e escaláveis. Proativo e comprometido com a melhoria contínua das habilidades técnicas, valorizo o trabalho colaborativo..._
 
-<a href="https://areatech.academy/github"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
+<a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
 <img src="https://img.shields.io/static/v1?label=Level&message=3&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
 <img src="https://img.shields.io/static/v1?label=XP&message=3332&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
 <img src="https://img.shields.io/static/v1?label=Seniority&message=Trainee&color=f97316&style=for-the-badge&logo=levelsdotfyi&logoColor=white" alt="Seniority" />
@@ -19,7 +19,7 @@ _Desenvolvedor de software com sólida experiência em projetos Fullstack, espec
 
 <div align="center">
 
-![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260716205820)
+![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260716210138)
 
 </div>
 
@@ -51,7 +51,7 @@ Activity  ░░░░░░░▒░░░▒▒█
 
 <div align="center">
 
-![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260716205820)
+![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260716210138)
 
 </div>
 
@@ -106,7 +106,7 @@ Activity  ░░░░░░░▒░░░▒▒█
 
 <div align="center">
 
-<a href="https://areatech.academy/github"><img src="https://img.shields.io/static/v1?label=Powered%20by&message=Area%20Tech%20Academy&color=0ea5e9&style=for-the-badge&logo=github&logoColor=white" alt="Powered by" /></a>
+<a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Powered%20by&message=Area%20Tech%20Academy&color=0ea5e9&style=for-the-badge&logo=github&logoColor=white" alt="Powered by" /></a>
 
 _README sincronizado automaticamente com minha evolução na plataforma._
 
