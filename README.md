@@ -19,7 +19,7 @@ _Desenvolvedor de software com sólida experiência em projetos Fullstack, espec
 
 <div align="center">
 
-![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260716210138)
+![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260716210214)
 
 </div>
 
@@ -51,7 +51,7 @@ Activity  ░░░░░░░▒░░░▒▒█
 
 <div align="center">
 
-![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260716210138)
+![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260716210214)
 
 </div>
 
