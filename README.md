@@ -9,7 +9,7 @@ _Desenvolvedor de software com sólida experiência em projetos Fullstack, espec
 
 <a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
 <img src="https://img.shields.io/static/v1?label=Level&message=3&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
-<img src="https://img.shields.io/static/v1?label=XP&message=3987&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
+<img src="https://img.shields.io/static/v1?label=XP&message=4812&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
 <img src="https://img.shields.io/static/v1?label=Seniority&message=Trainee&color=f97316&style=for-the-badge&logo=levelsdotfyi&logoColor=white" alt="Seniority" />
 <img src="https://img.shields.io/static/v1?label=Main%20stack&message=C%23&color=22c55e&style=for-the-badge&logo=csharp&logoColor=white" alt="Main stack" />
 
@@ -19,7 +19,7 @@ _Desenvolvedor de software com sólida experiência em projetos Fullstack, espec
 
 <div align="center">
 
-![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260718115720)
+![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260719141800)
 
 </div>
 
@@ -29,11 +29,11 @@ _Desenvolvedor de software com sólida experiência em projetos Fullstack, espec
 
 <table>
   <tr>
-    <td align="center"><strong>26</strong><br/>desafios resolvidos</td>
-    <td align="center"><strong>74</strong><br/>estrelas conquistadas</td>
+    <td align="center"><strong>32</strong><br/>desafios resolvidos</td>
+    <td align="center"><strong>91</strong><br/>estrelas conquistadas</td>
     <td align="center"><strong>2.8</strong><br/>media de estrelas</td>
-    <td align="center"><strong>6</strong><br/>dias de streak</td>
-    <td align="center"><strong>6</strong><br/>conquistas</td>
+    <td align="center"><strong>7</strong><br/>dias de streak</td>
+    <td align="center"><strong>7</strong><br/>conquistas</td>
   </tr>
 </table>
 
@@ -41,23 +41,23 @@ _Desenvolvedor de software com sólida experiência em projetos Fullstack, espec
 
 | Easy | Medium | Hard | Total | Stars | Avg |
 |:----:|:------:|:----:|:-----:|:-----:|:---:|
-| 12 | 10 | 4 | 26 | 74 | 2.8/3 |
+| 16 | 11 | 5 | 32 | 91 | 2.8/3 |
 
 ```text
-Activity  ░░░░░▒░░░▒▒█▒░
+Activity  ░░░░▒░░░▒▒▓▒█░
 ```
 
 ## Language Skills
 
 <div align="center">
 
-![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260718115720)
+![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260719141800)
 
 </div>
 
 | Language | Level | XP no nível | Desafios |
 |---|---:|---:|---:|
-| C# | 3 | 20 / 3,737 | 26 |
+| C# | 3 | 695 / 3,737 | 32 |
 
 ## Skills
 
@@ -76,6 +76,7 @@ Activity  ░░░░░▒░░░▒▒█▒░
 <details open>
 <summary><strong>Latest unlocked badges</strong></summary>
 
+- 🔥 **Sequência de 7 dias** — Mantenha uma sequência de 7 dias de atividade.
 - 📖 **Material de apoio** — Visualize seu primeiro material de estudo.
 - 🎬 **Primeira aula** — Conclua sua primeira aula em um curso.
 - 📅 **Primeiro dia de estudo** — Registre tempo de estudo na meta semanal pela primeira vez.
@@ -89,11 +90,12 @@ Activity  ░░░░░▒░░░▒▒█▒░
 
 | Data | Desafios |
 |------|----------|
-| 2026-07-18 | 2 |
-| 2026-07-17 | 5 |
+| 2026-07-19 | 1 |
+| 2026-07-18 | 9 |
+| 2026-07-17 | 4 |
 | 2026-07-16 | 8 |
 | 2026-07-15 | 4 |
-| 2026-07-14 | 4 |
+| 2026-07-14 | 3 |
 | 2026-07-13 | 2 |
 | 2026-07-10 | 3 |
 | 2026-07-08 | 2 |
