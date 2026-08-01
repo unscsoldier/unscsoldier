@@ -5,11 +5,11 @@
 
 ### Desenvolvedor de Software Fullstack
 
-_Desenvolvedor de software com sólida experiência em projetos Fullstack, especializado na criação de soluções eficientes e escaláveis. Proativo e comprometido com a melhoria contínua das habilidades técnicas, valorizo o trabalho colaborativo..._
+_Desenvolvedor de software com forte experiência em projetos Fullstack, especializado na criação de soluções eficientes e escaláveis. Proativo e comprometido com a melhoria contínua das habilidades técnicas, valorizo o trabalho colaborativo..._
 
 <a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
-<img src="https://img.shields.io/static/v1?label=Level&message=3&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
-<img src="https://img.shields.io/static/v1?label=XP&message=4812&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
+<img src="https://img.shields.io/static/v1?label=Level&message=4&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
+<img src="https://img.shields.io/static/v1?label=XP&message=8447&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
 <img src="https://img.shields.io/static/v1?label=Seniority&message=Trainee&color=f97316&style=for-the-badge&logo=levelsdotfyi&logoColor=white" alt="Seniority" />
 <img src="https://img.shields.io/static/v1?label=Main%20stack&message=C%23&color=22c55e&style=for-the-badge&logo=csharp&logoColor=white" alt="Main stack" />
 
@@ -19,7 +19,7 @@ _Desenvolvedor de software com sólida experiência em projetos Fullstack, espec
 
 <div align="center">
 
-![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260719141800)
+![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260801012346)
 
 </div>
 
@@ -29,10 +29,10 @@ _Desenvolvedor de software com sólida experiência em projetos Fullstack, espec
 
 <table>
   <tr>
-    <td align="center"><strong>32</strong><br/>desafios resolvidos</td>
-    <td align="center"><strong>91</strong><br/>estrelas conquistadas</td>
+    <td align="center"><strong>56</strong><br/>desafios resolvidos</td>
+    <td align="center"><strong>157</strong><br/>estrelas conquistadas</td>
     <td align="center"><strong>2.8</strong><br/>media de estrelas</td>
-    <td align="center"><strong>7</strong><br/>dias de streak</td>
+    <td align="center"><strong>1</strong><br/>dias de streak</td>
     <td align="center"><strong>7</strong><br/>conquistas</td>
   </tr>
 </table>
@@ -41,23 +41,23 @@ _Desenvolvedor de software com sólida experiência em projetos Fullstack, espec
 
 | Easy | Medium | Hard | Total | Stars | Avg |
 |:----:|:------:|:----:|:-----:|:-----:|:---:|
-| 16 | 11 | 5 | 32 | 91 | 2.8/3 |
+| 21 | 25 | 10 | 56 | 157 | 2.8/3 |
 
 ```text
-Activity  ░░░░▒░░░▒▒▓▒█░
+Activity  ░░▒░▒░▒░▒▒░░░▒
 ```
 
 ## Language Skills
 
 <div align="center">
 
-![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260719141800)
+![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260801012346)
 
 </div>
 
 | Language | Level | XP no nível | Desafios |
 |---|---:|---:|---:|
-| C# | 3 | 695 / 3,737 | 32 |
+| C# | 4 | 63 / 5,278 | 56 |
 
 ## Skills
 
@@ -90,15 +90,20 @@ Activity  ░░░░▒░░░▒▒▓▒█░
 
 | Data | Desafios |
 |------|----------|
-| 2026-07-19 | 1 |
+| 2026-08-01 | 3 |
+| 2026-07-28 | 4 |
+| 2026-07-27 | 5 |
+| 2026-07-25 | 5 |
+| 2026-07-24 | 2 |
+| 2026-07-23 | 4 |
+| 2026-07-21 | 4 |
+| 2026-07-19 | 2 |
 | 2026-07-18 | 9 |
 | 2026-07-17 | 4 |
 | 2026-07-16 | 8 |
 | 2026-07-15 | 4 |
 | 2026-07-14 | 3 |
 | 2026-07-13 | 2 |
-| 2026-07-10 | 3 |
-| 2026-07-08 | 2 |
 
 ## Current Focus
 
