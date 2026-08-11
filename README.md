@@ -9,7 +9,7 @@ _Desenvolvedor de software com forte experiência em projetos Fullstack, especia
 
 <a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
 <img src="https://img.shields.io/static/v1?label=Level&message=5&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
-<img src="https://img.shields.io/static/v1?label=XP&message=12712&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
+<img src="https://img.shields.io/static/v1?label=XP&message=12812&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
 <img src="https://img.shields.io/static/v1?label=Seniority&message=Trainee&color=f97316&style=for-the-badge&logo=levelsdotfyi&logoColor=white" alt="Seniority" />
 <img src="https://img.shields.io/static/v1?label=Main%20stack&message=C%23&color=22c55e&style=for-the-badge&logo=csharp&logoColor=white" alt="Main stack" />
 
@@ -19,7 +19,7 @@ _Desenvolvedor de software com forte experiência em projetos Fullstack, especia
 
 <div align="center">
 
-![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260811003825)
+![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260811005353)
 
 </div>
 
@@ -51,7 +51,7 @@ Activity  ░░░▒▒▓█▒██░▒▒▓
 
 <div align="center">
 
-![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260811003825)
+![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260811005353)
 
 </div>
 
@@ -59,6 +59,7 @@ Activity  ░░░▒▒▓█▒██░▒▒▓
 |---|---:|---:|---:|
 | C# | 4 | 2,403 / 5,278 | 84 |
 | Go | 1 | 905 / 1,000 | 9 |
+| Rust | 1 | 100 / 1,000 | 0 |
 | C | 1 | 100 / 1,000 | 1 |
 
 ## Skills
