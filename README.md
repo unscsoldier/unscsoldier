@@ -19,7 +19,7 @@ _Desenvolvedor de software com forte experiência em projetos Fullstack, especia
 
 <div align="center">
 
-![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260811003745)
+![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260811003825)
 
 </div>
 
@@ -29,8 +29,8 @@ _Desenvolvedor de software com forte experiência em projetos Fullstack, especia
 
 <table>
   <tr>
-    <td align="center"><strong>93</strong><br/>desafios resolvidos</td>
-    <td align="center"><strong>253</strong><br/>estrelas conquistadas</td>
+    <td align="center"><strong>94</strong><br/>desafios resolvidos</td>
+    <td align="center"><strong>256</strong><br/>estrelas conquistadas</td>
     <td align="center"><strong>2.7</strong><br/>media de estrelas</td>
     <td align="center"><strong>11</strong><br/>dias de streak</td>
     <td align="center"><strong>9</strong><br/>conquistas</td>
@@ -41,7 +41,7 @@ _Desenvolvedor de software com forte experiência em projetos Fullstack, especia
 
 | Easy | Medium | Hard | Total | Stars | Avg |
 |:----:|:------:|:----:|:-----:|:-----:|:---:|
-| 44 | 35 | 14 | 93 | 253 | 2.7/3 |
+| 45 | 35 | 14 | 94 | 256 | 2.7/3 |
 
 ```text
 Activity  ░░░▒▒▓█▒██░▒▒▓
@@ -51,7 +51,7 @@ Activity  ░░░▒▒▓█▒██░▒▒▓
 
 <div align="center">
 
-![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260811003745)
+![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260811003825)
 
 </div>
 
@@ -59,7 +59,7 @@ Activity  ░░░▒▒▓█▒██░▒▒▓
 |---|---:|---:|---:|
 | C# | 4 | 2,403 / 5,278 | 84 |
 | Go | 1 | 905 / 1,000 | 9 |
-| C | 1 | 100 / 1,000 | 0 |
+| C | 1 | 100 / 1,000 | 1 |
 
 ## Skills
 
@@ -94,7 +94,7 @@ Activity  ░░░▒▒▓█▒██░▒▒▓
 
 | Data | Desafios |
 |------|----------|
-| 2026-08-11 | 4 |
+| 2026-08-11 | 5 |
 | 2026-08-10 | 3 |
 | 2026-08-09 | 3 |
 | 2026-08-08 | 1 |
