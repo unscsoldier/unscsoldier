@@ -8,8 +8,8 @@
 _Desenvolvedor de software com forte experiência em projetos Fullstack, especializado na criação de soluções eficientes e escaláveis. Proativo e comprometido com a melhoria contínua das habilidades técnicas, valorizo o trabalho colaborativo..._
 
 <a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
-<img src="https://img.shields.io/static/v1?label=Level&message=4&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
-<img src="https://img.shields.io/static/v1?label=XP&message=10462&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
+<img src="https://img.shields.io/static/v1?label=Level&message=5&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
+<img src="https://img.shields.io/static/v1?label=XP&message=12712&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
 <img src="https://img.shields.io/static/v1?label=Seniority&message=Trainee&color=f97316&style=for-the-badge&logo=levelsdotfyi&logoColor=white" alt="Seniority" />
 <img src="https://img.shields.io/static/v1?label=Main%20stack&message=C%23&color=22c55e&style=for-the-badge&logo=csharp&logoColor=white" alt="Main stack" />
 
@@ -19,7 +19,7 @@ _Desenvolvedor de software com forte experiência em projetos Fullstack, especia
 
 <div align="center">
 
-![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260806152301)
+![Sua constância](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-activity-heatmap.svg?t=20260811003745)
 
 </div>
 
@@ -29,10 +29,10 @@ _Desenvolvedor de software com forte experiência em projetos Fullstack, especia
 
 <table>
   <tr>
-    <td align="center"><strong>73</strong><br/>desafios resolvidos</td>
-    <td align="center"><strong>202</strong><br/>estrelas conquistadas</td>
-    <td align="center"><strong>2.8</strong><br/>media de estrelas</td>
-    <td align="center"><strong>6</strong><br/>dias de streak</td>
+    <td align="center"><strong>93</strong><br/>desafios resolvidos</td>
+    <td align="center"><strong>253</strong><br/>estrelas conquistadas</td>
+    <td align="center"><strong>2.7</strong><br/>media de estrelas</td>
+    <td align="center"><strong>11</strong><br/>dias de streak</td>
     <td align="center"><strong>9</strong><br/>conquistas</td>
   </tr>
 </table>
@@ -41,24 +41,25 @@ _Desenvolvedor de software com forte experiência em projetos Fullstack, especia
 
 | Easy | Medium | Hard | Total | Stars | Avg |
 |:----:|:------:|:----:|:-----:|:-----:|:---:|
-| 36 | 26 | 11 | 73 | 202 | 2.8/3 |
+| 44 | 35 | 14 | 93 | 253 | 2.7/3 |
 
 ```text
-Activity  ░▒░▒▒░░░▒░▒▓░▒
+Activity  ░░░▒▒▓█▒██░▒▒▓
 ```
 
 ## Language Skills
 
 <div align="center">
 
-![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260806152301)
+![Language Skills](https://raw.githubusercontent.com/unscsoldier/unscsoldier/HEAD/ata-language-skills.svg?t=20260811003745)
 
 </div>
 
 | Language | Level | XP no nível | Desafios |
 |---|---:|---:|---:|
-| C# | 4 | 1,008 / 5,278 | 68 |
-| Go | 1 | 450 / 1,000 | 5 |
+| C# | 4 | 2,403 / 5,278 | 84 |
+| Go | 1 | 905 / 1,000 | 9 |
+| C | 1 | 100 / 1,000 | 0 |
 
 ## Skills
 
@@ -93,7 +94,12 @@ Activity  ░▒░▒▒░░░▒░▒▓░▒
 
 | Data | Desafios |
 |------|----------|
-| 2026-08-06 | 3 |
+| 2026-08-11 | 4 |
+| 2026-08-10 | 3 |
+| 2026-08-09 | 3 |
+| 2026-08-08 | 1 |
+| 2026-08-07 | 6 |
+| 2026-08-06 | 6 |
 | 2026-08-05 | 2 |
 | 2026-08-04 | 6 |
 | 2026-08-03 | 4 |
@@ -102,11 +108,6 @@ Activity  ░▒░▒▒░░░▒░▒▓░▒
 | 2026-07-28 | 4 |
 | 2026-07-27 | 5 |
 | 2026-07-25 | 5 |
-| 2026-07-24 | 2 |
-| 2026-07-23 | 4 |
-| 2026-07-21 | 4 |
-| 2026-07-19 | 2 |
-| 2026-07-18 | 9 |
 
 ## Current Focus
 
