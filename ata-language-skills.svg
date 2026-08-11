@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="656" height="220" viewBox="0 0 656 220" role="img" aria-label="Language skills">
-  <rect width="656" height="220" rx="18" fill="#0b1220"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="656" height="408" viewBox="0 0 656 408" role="img" aria-label="Language skills">
+  <rect width="656" height="408" rx="18" fill="#0b1220"/>
   <g transform="translate(94 88)">
     <circle r="46" fill="none" stroke="#1e293b" stroke-width="10"/>
     <circle r="46" fill="none" stroke="#8b5cf6" stroke-width="10" stroke-linecap="round" stroke-dasharray="289.027" stroke-dashoffset="156.074" transform="rotate(-90)"/>
@@ -24,7 +24,7 @@
     <text text-anchor="middle" y="-4" fill="#f8fafc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">1</text>
     <text text-anchor="middle" y="14" fill="#94a3b8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">LEVEL</text>
     <text text-anchor="middle" y="78" fill="#f1f5f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Rust</text>
-    <text text-anchor="middle" y="96" fill="#94a3b8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Level 1 · 0 desafios</text>
+    <text text-anchor="middle" y="96" fill="#94a3b8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Level 1 · 1 desafio</text>
     <text text-anchor="middle" y="112" fill="#f97316" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">100 / 1000 XP</text>
   </g>
   <g transform="translate(562 88)">
@@ -35,5 +35,14 @@
     <text text-anchor="middle" y="78" fill="#f1f5f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">C</text>
     <text text-anchor="middle" y="96" fill="#94a3b8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Level 1 · 1 desafio</text>
     <text text-anchor="middle" y="112" fill="#22c55e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">100 / 1000 XP</text>
+  </g>
+  <g transform="translate(94 276)">
+    <circle r="46" fill="none" stroke="#1e293b" stroke-width="10"/>
+    <circle r="46" fill="none" stroke="#ec4899" stroke-width="10" stroke-linecap="round" stroke-dasharray="289.027" stroke-dashoffset="274.575" transform="rotate(-90)"/>
+    <text text-anchor="middle" y="-4" fill="#f8fafc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">1</text>
+    <text text-anchor="middle" y="14" fill="#94a3b8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">LEVEL</text>
+    <text text-anchor="middle" y="78" fill="#f1f5f9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">PHP</text>
+    <text text-anchor="middle" y="96" fill="#94a3b8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Level 1 · 0 desafios</text>
+    <text text-anchor="middle" y="112" fill="#ec4899" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">50 / 1000 XP</text>
   </g>
 </svg>
